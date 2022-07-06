@@ -1,0 +1,15 @@
+{
+  "tracking_number": "2324AB",
+  "tracking_url": "http://test.com",
+  "status_code": "DE",
+  "carrier_code": "dpd",
+  "carrier_id": 42,
+  "carrier_detail_code": "DE02",
+  "status_description": "Delivered",
+  "carrier_status_code": "DELV",
+  "carrier_status_description": "Status desc",
+  "ship_date": "2022-02-17T16:15:00Z",
+  "estimated_delivery_date": "2022-02-17T16:15:00Z",
+  "actual_delivery_date": "2022-02-17T16:15:00Z",
+  "exception_description": "desc"
+}
